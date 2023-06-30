@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'WBWCRM2002300'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52A7234FE3C34BDF8F0BE27A9417267A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE3287F52CBA4037B0AC6CD89D2B2CE2 }}
           package: .
